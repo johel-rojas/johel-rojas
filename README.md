@@ -8,15 +8,19 @@ Originally from Costa Rica, I've found my footing in the vibrant tech scene of A
 🔭 I’m currently working on:
 Building responsive web applications
 Exploring modern JavaScript frameworks like React.js
+
 🌱 I’m currently learning:
 Advanced CSS techniques
 Backend development with Node.js
 Working with APIs and databases
+
 💬 Ask me about:
 Frontend development best practices
 Costa Rican culture and cuisine
+
 📫 How to reach me:
 LinkedIn
 Twitter
+
 😄 Pronouns:
 He/Him
