@@ -7,7 +7,9 @@ Beyond the screen, I'm an avid nature enthusiast and adventure seeker. Whether i
 Originally from Costa Rica, I've found my footing in the vibrant tech scene of Austin, TX. Constantly seeking to expand my skills and stay abreast of the latest trends in web development, I'm eager to collaborate on exciting projects and continue pushing the boundaries of what's possible on the web.
 
 🔭 I’m currently working on:
+
 Building responsive web applications
+
 Exploring modern JavaScript frameworks like React.js
 
 🌱 I’m currently learning:
