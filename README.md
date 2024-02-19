@@ -8,7 +8,7 @@ Originally from Costa Rica, I've found my footing in the vibrant tech scene of A
 
 🔭 I’m currently working on:
 
-Building responsive web applications
+Building responsive web applications,
 Exploring modern JavaScript frameworks like React.js
 
 🌱 I’m currently learning:
