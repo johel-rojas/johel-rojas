@@ -1,5 +1,8 @@
 Hi there, I'm Johel Rojas! 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johel-rojas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I'm currently diving deep into the world of web development through a rigorous bootcamp at TripleTen. With a solid foundation in CSS, HTML, and JavaScript, I'm passionate about crafting engaging and dynamic web experiences. Additionally, I'm expanding my skill set to include backend development, APIs, and databases.
 
 Beyond the screen, I'm an avid nature enthusiast and adventure seeker. Whether it's hiking through lush forests or embarking on adrenaline-pumping escapades, I find inspiration and rejuvenation in the great outdoors.
